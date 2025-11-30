@@ -1,4 +1,4 @@
-# 🏨 Hotel Revenue Performance Analysis Dashboard
+# 🏨 AI Hotel Revenue Performance Analysis Dashboard
 
 📊 **Power BI • Python • Data Analytics Project**
 
