@@ -109,13 +109,6 @@ Insights include:
 - Customer type contribution
 - ADR by room type
 
-👉 Upload Power BI screenshots here:
-
-| Screenshot |
-|-----------|
-| *(Add dashboard page 1 screenshot here)* |
-| *(Add dashboard page 2 screenshot here)* |
-
 ---
 
 ## 🛠 Tools & Technologies
